@@ -1,0 +1,7 @@
+Flask
+wheel
+pandas
+sqlalchemy
+pyodbc
+numpy
+natsort
